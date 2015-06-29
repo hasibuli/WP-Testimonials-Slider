@@ -52,7 +52,11 @@ Yes.
 3. Single Item
 
 == Changelog ==
-1.0: News version.
+
+= 1.0 =
+
+* News version.
+
 
 == Upgrade notice ==
 Full capabilities post types.
