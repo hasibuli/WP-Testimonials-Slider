@@ -40,17 +40,6 @@ The plugin is designed for portfolio site. "WP Testimonials Slider" is a free wo
 3. Just copy and paste " <strong>[WPTS-TESTIMONIAL]</strong> in the post/page" where you want to display testimonials.
 
 
-== Frequently asked questions ==
-= Can it possible to use throw shordcode? =
-Yes.
-= Could it possible to places this ticker on post or page? =
-Yes.
-
-== Screenshots ==
-1. Testimonials Settings
-2. All Item
-3. Single Item
-
 == Changelog ==
 
 = 1.0 =
